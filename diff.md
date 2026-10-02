@@ -1,4 +1,4 @@
 ```diff
 + This was added
-× This was deleted
+- This was deleted
 ```
